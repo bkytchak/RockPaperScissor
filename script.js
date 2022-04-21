@@ -26,7 +26,7 @@ function playRound (playerSelection, computerSelection) {
 return result
 }
 
-function game() {
+/*function game() {
     let roundResult = ""
     for (let i = 0; i < 5; i++) {
         let playerSelection = prompt("Rock, Paper, or Scissors?");
@@ -45,4 +45,4 @@ function game() {
     return roundResult
 }
 
-console.log(game())
+console.log(game())*/
